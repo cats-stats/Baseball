@@ -1,0 +1,12 @@
+﻿playerId,abbrevName,playerFullName,player,playerFirstName,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,SwStrk%,Runs,CallStrk#,InZone#,OutOfZone#,Chase#,Ball#,TrackmanP,BA,SLG,OnBase,90thExitVel,FBLDDst,MaxHRDst,ExitVel,MxExitVel,InZoneWhiff%,AB,Chase%,KnownPitchLocation,H
+1471652542,J. Daly,Jamie Daly,Daly,Jamie,CF,Davidson College,DAV,730363136,Davidson,BBC,L,R,9.2%,2,13,27,38,8,27,65,.308,.462,6,98.2,278.2,-,83.3,105.9,23.5%,13,21.1%,65,4
+1330454017,N. Jouras,Noah Jouras,Jouras,Noah,C,Davidson College,DAV,730363136,Davidson,BBC,R,R,6.5%,1,8,26,36,6,27,62,.231,.231,4,95.3,267.5,-,83.2,100.5,14.3%,13,16.7%,62,3
+1191505152,J. Cotrone,Jack Cotrone,Cotrone,Jack,SS,Davidson College,DAV,730363136,Davidson,BBC,R,R,20.0%,1,12,21,34,12,16,55,.154,.231,3,105.9,259.4,-,86.5,105.9,33.3%,13,35.3%,55,2
+1272581376,C. Schuchart,Chris Schuchart,Schuchart,Chris,1B,Davidson College,DAV,730363136,Davidson,BBC,R,R,11.5%,1,7,24,28,8,17,52,.167,.250,3,98.4,208.4,-,86.4,100.9,10.0%,12,28.6%,52,2
+1297003776,J. Woodall,JD Woodall,Woodall,JD,LF,Davidson College,DAV,730363136,Davidson,BBC,R,R,7.5%,3,13,21,30,4,24,51,.125,.125,4,99.5,161.6,-,89.4,99.5,16.7%,8,13.3%,51,1
+1332977920,M. O'Shaughnessy,Michael O'Shaughnessy,O'Shaughnessy,Michael,3B,Davidson College,DAV,730363136,Davidson,BBC,L,R,3.9%,3,7,21,26,2,26,47,.375,.875,8,105.9,297.1,359.58,97.4,106.3,0.0%,8,7.7%,47,3
+1307930112,A. Torreso,Anthony Torreso,Torreso,Anthony,P,Davidson College,DAV,730363136,Davidson,BBC,R,R,2.1%,1,9,18,29,6,19,47,.500,.667,9,101.3,264.9,-,92.1,102.4,7.7%,12,20.7%,47,6
+1282331648,E. Putnam,Eli Putnam,Putnam,Eli,1B,Davidson College,DAV,730363136,Davidson,BBC,R,R,7.0%,1,10,25,18,4,12,43,.267,.333,4,101.2,304.5,-,85.2,104.1,11.8%,15,22.2%,43,4
+1297576704,C. Canon,Cider Canon,Canon,Cider,RF,Davidson College,DAV,730363136,Davidson,BBC,R,R,23.3%,5,5,17,26,12,12,43,.400,1.000,6,104.9,299.5,412.08,92.2,105.9,14.3%,15,46.2%,43,6
+1239163392,A. Rice,Aidan Rice,Rice,Aidan,CF,Davidson College,DAV,730363136,Davidson,BBC,R,R,0.0%,0,1,2,2,0,2,4,.000,.000,0,28.2,-,-,28.2,28.2,0.0%,1,0.0%,4,0
+1303447040,J. Howard,Jed Howard,Howard,Jed,P,Davidson College,DAV,730363136,Davidson,BBC,L,L,0.0%,0,1,2,0,0,0,2,.000,.000,0,88.3,-,-,88.3,88.3,0.0%,1,-,2,0

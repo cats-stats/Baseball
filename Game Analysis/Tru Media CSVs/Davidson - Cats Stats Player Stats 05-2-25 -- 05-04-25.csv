@@ -1,0 +1,14 @@
+﻿playerId,abbrevName,playerFullName,player,playerFirstName,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,SwStrk%,Runs,CallStrk#,InZone#,OutOfZone#,Chase#,Ball#,TrackmanP,BA,SLG,OnBase,90thExitVel,FBLDDst,MaxHRDst,ExitVel,MxExitVel,InZoneWhiff%,AB,Chase%,KnownPitchLocation,H
+1272581376,C. Schuchart,Chris Schuchart,Schuchart,Chris,1B,Davidson College,DAV,730363136,Davidson,BBC,R,R,12.3%,0,8,23,30,8,22,53,.214,.286,4,100.3,275.2,-,90.1,102.4,10.5%,14,26.7%,53,3
+1307930112,A. Torreso,Anthony Torreso,Torreso,Anthony,P,Davidson College,DAV,730363136,Davidson,BBC,R,R,12.3%,3,10,25,25,9,18,50,.286,.786,6,104.5,333.7,436.83,93.3,107.0,15.0%,14,36.0%,50,4
+1297576704,C. Canon,Cider Canon,Canon,Cider,RF,Davidson College,DAV,730363136,Davidson,BBC,R,R,3.5%,5,8,17,32,8,27,49,.750,1.167,13,105.0,285.6,406.77,93.1,106.0,16.7%,12,25.0%,49,9
+1282331648,E. Putnam,Eli Putnam,Putnam,Eli,1B,Davidson College,DAV,730363136,Davidson,BBC,R,R,17.5%,4,7,19,29,12,17,48,.333,.800,6,106.5,322.7,428.52,92.5,109.0,11.8%,15,41.4%,48,5
+1332977920,M. O'Shaughnessy,Michael O'Shaughnessy,O'Shaughnessy,Michael,3B,Davidson College,DAV,730363136,Davidson,BBC,L,R,11.1%,1,6,19,29,4,26,48,.167,.167,5,101.3,263.4,-,87.2,103.0,12.5%,12,13.8%,48,2
+1330454017,N. Jouras,Noah Jouras,Jouras,Noah,C,Davidson College,DAV,730363136,Davidson,BBC,R,R,6.9%,5,7,17,31,10,25,48,.500,1.000,8,96.9,315.4,409.00,79.3,97.9,18.2%,12,32.3%,48,6
+1297003776,J. Woodall,JD Woodall,Woodall,JD,LF,Davidson College,DAV,730363136,Davidson,BBC,R,R,5.8%,4,12,16,30,6,24,46,.333,.444,6,98.7,188.8,-,78.7,98.7,0.0%,9,20.0%,46,3
+1191505152,J. Cotrone,Jack Cotrone,Cotrone,Jack,SS,Davidson College,DAV,730363136,Davidson,BBC,R,R,13.7%,3,9,17,26,5,22,43,.200,.500,6,95.5,344.5,405.47,88.5,105.2,27.3%,10,19.2%,43,2
+1471652542,J. Daly,Jamie Daly,Daly,Jamie,CF,Davidson College,DAV,730363136,Davidson,BBC,L,R,9.4%,4,11,16,15,4,12,31,.400,.600,4,66.9,-,-,44.0,66.9,20.0%,5,26.7%,31,2
+1759708672,C. Collins,Cooper Collins,Collins,Cooper,2B,Davidson College,DAV,730363136,Davidson,BBC,R,R,0.0%,1,2,2,4,1,2,6,1.000,2.000,1,89.4,321.4,-,89.4,89.4,0.0%,1,25.0%,6,1
+1223223040,A. Katz,Adam Katz,Katz,Adam,P,Davidson College,DAV,730363136,Davidson,BBC,L,R,40.0%,0,0,3,2,0,2,5,1.000,1.000,1,95.5,182.0,-,95.5,95.5,66.7%,1,0.0%,5,1
+1146187520,J. Suarez,Jake Suarez,Suarez,Jake,C,Davidson College,DAV,730363136,Davidson,BBC,L,R,0.0%,0,1,2,3,2,1,5,.000,.000,0,79.3,-,-,79.3,79.3,0.0%,1,66.7%,5,0
+1162347264,G. Thomas,Gavin Thomas,Thomas,Gavin,RF,Davidson College,DAV,730363136,Davidson,BBC,R,R,0.0%,0,1,1,4,0,4,5,-,-,1,-,-,-,-,-,-,0,0.0%,5,0

@@ -1,0 +1,14 @@
+﻿playerId,abbrevName,playerFullName,player,playerFirstName,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,SwStrk%,Runs,CallStrk#,InZone#,OutOfZone#,Chase#,Ball#,TrackmanP,BA,SLG,OnBase,90thExitVel,FBLDDst,MaxHRDst,ExitVel,MxExitVel,InZoneWhiff%,AB,Chase%,KnownPitchLocation,H
+1330454017,N. Jouras,Noah Jouras,Jouras,Noah,C,Davidson College,DAV,730363136,Davidson,BBC,R,R,6.6%,4,12,26,35,6,28,61,.778,1.222,12,98.3,250.1,-,70.8,100.5,13.3%,9,17.1%,61,7
+1282331648,E. Putnam,Eli Putnam,Putnam,Eli,1B,Davidson College,DAV,730363136,Davidson,BBC,R,R,14.5%,1,6,23,32,9,22,55,.214,.214,4,102.4,266.9,-,89.2,104.4,22.2%,14,28.1%,55,3
+1917819429,F. Lietz,Forrest Lietz,Lietz,Forrest,RF,Davidson College,DAV,730363136,Davidson,BBC,L,L,11.3%,3,7,20,33,11,21,53,.364,.636,6,98.8,309.8,-,85.3,102.3,7.1%,11,33.3%,53,4
+1272581376,C. Schuchart,Chris Schuchart,Schuchart,Chris,1B,Davidson College,DAV,730363136,Davidson,BBC,R,R,5.8%,1,12,23,29,5,21,52,.444,.444,7,101.9,260.1,-,87.4,102.1,0.0%,9,17.2%,52,4
+1332977920,M. O'Shaughnessy,Michael O'Shaughnessy,O'Shaughnessy,Michael,3B,Davidson College,DAV,730363136,Davidson,BBC,L,R,17.6%,2,5,25,26,10,16,51,.154,.154,3,101.9,270.1,-,97.1,102.9,10.0%,13,38.5%,51,2
+1223223040,A. Katz,Adam Katz,Katz,Adam,P,Davidson College,DAV,730363136,Davidson,BBC,L,R,5.9%,0,11,18,33,7,23,51,.300,.500,5,91.1,240.6,-,82.9,95.1,0.0%,10,21.2%,51,3
+1471652542,J. Daly,Jamie Daly,Daly,Jamie,CF,Davidson College,DAV,730363136,Davidson,BBC,L,R,9.8%,4,10,24,26,7,21,50,.444,.889,7,97.1,308.5,354.86,79.4,98.5,15.4%,9,26.9%,50,4
+1191505152,J. Cotrone,Jack Cotrone,Cotrone,Jack,SS,Davidson College,DAV,730363136,Davidson,BBC,R,R,11.1%,2,13,20,25,7,14,45,.250,.250,5,96.6,202.3,-,82.5,105.2,18.2%,12,28.0%,45,3
+1239163392,A. Rice,Aidan Rice,Rice,Aidan,CF,Davidson College,DAV,730363136,Davidson,BBC,R,R,12.0%,2,3,9,15,3,11,24,.250,.250,3,101.0,-,-,101.0,101.0,28.6%,4,20.0%,24,1
+1563218164,W. Brooks,Will Brooks,Brooks,Will,C,Davidson College,DAV,730363136,Davidson,BBC,R,R,13.3%,0,1,6,9,4,5,15,.000,.000,0,82.0,-,-,73.6,82.0,20.0%,3,44.4%,15,0
+1456735724,S. Edwards,Scott Edwards,Edwards,Scott,LF,Davidson College,DAV,730363136,Davidson,BBC,R,R,0.0%,0,2,5,6,2,4,11,.000,.000,1,87.1,-,-,87.1,87.1,0.0%,1,33.3%,11,0
+1174677248,L. Reeves,Landon Reeves,Reeves,Landon,1B,Davidson College,DAV,730363136,Davidson,BBC,L,L,40.0%,0,4,6,4,3,0,10,.333,.333,1,99.4,-,-,99.4,99.4,33.3%,3,75.0%,10,1
+1146187520,J. Suarez,Jake Suarez,Suarez,Jake,C,Davidson College,DAV,730363136,Davidson,BBC,L,R,20.0%,0,0,2,3,1,2,5,.000,.000,0,85.2,274.0,-,85.2,85.2,0.0%,1,33.3%,5,0
